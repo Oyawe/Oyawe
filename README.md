@@ -6,6 +6,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
+  
   - 🤔 &nbsp; Exploring new technologies and developing beauitful Web based Applications.
   - 🎓 &nbsp; Studying Computer Science at Bowen University.
   - 💼 &nbsp; Working as a Freelance Web Developer.  

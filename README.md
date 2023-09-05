@@ -45,7 +45,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://goodness-portfolio.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-https://goodness-portfolio.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/goodness-oyawe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-oyawe goodness-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:oyawegoodness@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oyawegoodness-blue?style=flat-square&logo=gmail"></a>
 </p>

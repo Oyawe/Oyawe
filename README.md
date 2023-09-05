@@ -8,6 +8,8 @@
 - 🎓 &nbsp; Studying Computer Science at Bowen University.
 - 💼 &nbsp; Working as a Freelance Web Developer.
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;

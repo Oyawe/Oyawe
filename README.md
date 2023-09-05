@@ -45,5 +45,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:oyawegoodness@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oyawegoodness-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:oyawegoodness@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oyawe-Goodness-blue?style=flat-square&logo=gmail"></a>
 </p>

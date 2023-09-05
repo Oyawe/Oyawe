@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Goodness(a.k.a{Ibadan_techbro})</h2>
+<h2> Hey there! I'm Goodness</h2>
 
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
@@ -20,7 +20,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Tailiwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Tailiwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)

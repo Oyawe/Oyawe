@@ -8,7 +8,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
   
   - 🤔 &nbsp; Exploring new technologies and developing beauitful Web based Applications.
-  - 🎓 &nbsp; Studying Computer Science at Bowen University.
+  - 🎓 &nbsp; Bsc. Computer Science from Bowen University.
   - 💼 &nbsp; A well proficient Software Developer.
   - 📫 &nbsp; You can email me here **oyawegoodness@gmail.com**
 </div> 

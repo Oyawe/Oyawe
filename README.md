@@ -9,7 +9,7 @@
   
   - 🤔 &nbsp; Exploring new technologies and developing beauitful Web based Applications.
   - 🎓 &nbsp; Bsc. Computer Science from Bowen University.
-  - 💼 &nbsp; A well proficient Software Developer.
+  - 💼 &nbsp; A well proficient Frontend Software Developer.
   - 📫 &nbsp; You can email me here **oyawegoodness@gmail.com**
 </div> 
 </div>

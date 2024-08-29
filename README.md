@@ -1,15 +1,15 @@
 <h1> Hey there! I'm Goodness</h2>
 
-<h3 align="center">🚀 Frontend Developer | Junior Backend Developer | Open Source ♥ | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 Software Developer | Open Source ♥ | Competitive Programmer  🚀</h3>
 
 <div>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
-  - 🤔 &nbsp; Exploring new technologies and developing beauitful Web based Applications.
+  - 🤔 &nbsp; Exploring new technologies and developing beauitful and innovative Applications.
   - 🎓 &nbsp; Bsc. Computer Science from Bowen University.
-  - 💼 &nbsp; A well proficient Frontend Software Developer.
+  - 💼 &nbsp; A well proficient Software Developer.
   - 📫 &nbsp; You can email me here **oyawegoodness@gmail.com**
 </div> 
 </div>
